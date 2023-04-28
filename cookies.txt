@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+bitaml.com	TRUE	/	FALSE	1999999999	BQhYEJroycvt	eK9gvSLZ
+bitaml.com	TRUE	/	FALSE	1999999999	VpyNqLxrBSFtjOhI	BXxZ4E
+bitaml.com	TRUE	/	FALSE	1999999999	rBQEYJpMqcto	oSmxZlI%5DyaO1YBK
+
